@@ -1,0 +1,24 @@
+# ninja log v5
+26	1153	7210431908606892	CMakeFiles/pro_alg_2_queens.dir/my_unit_test.cpp.obj	aa67d7755d82d8a
+9	165	7201323183732057	CMakeFiles/pro_alg_2_queens.dir/queen.cpp.obj	da316fbc0c66f7ea
+5	1069	7210439287599359	CMakeFiles/pro_alg_2_queens.dir/main.cpp.obj	2847e77e5952c876
+14	1293	7210431909997272	CMakeFiles/pro_alg_2_queens.dir/board.cpp.obj	f0b80f47593c7291
+1	255	7215038963047754	build.ninja	cb8aa0bb71992aec
+1070	1261	7210439289383049	pro_alg_2_queens.exe	dc15433558511a7d
+7	512	7215040100901257	CMakeFiles/pro_alg_2_queens.dir/main.cpp.obj	2847e77e5952c876
+26	886	7215040104648572	CMakeFiles/pro_alg_2_queens.dir/unit_testing.cpp.obj	e795fcf702beb0cf
+17	974	7215040105522584	CMakeFiles/pro_alg_2_queens.dir/board.cpp.obj	f0b80f47593c7291
+974	1290	7215040108640281	pro_alg_2_queens.exe	a3877af46ad0e67e
+3	485	7215041764828581	CMakeFiles/pro_alg_2_queens.dir/main.cpp.obj	2847e77e5952c876
+485	707	7215041766987395	pro_alg_2_queens.exe	a3877af46ad0e67e
+7	463	7215042256276194	CMakeFiles/pro_alg_2_queens.dir/main.cpp.obj	2847e77e5952c876
+464	645	7215042258039326	pro_alg_2_queens.exe	a3877af46ad0e67e
+4	600	7215044983897429	CMakeFiles/pro_alg_2_queens.dir/main.cpp.obj	2847e77e5952c876
+601	767	7215044985516588	pro_alg_2_queens.exe	a3877af46ad0e67e
+6	516	7224591081997592	CMakeFiles/pro_alg_2_queens.dir/main.cpp.obj	2847e77e5952c876
+516	922	7224591086023081	pro_alg_2_queens.exe	a3877af46ad0e67e
+3	404	7251319885678716	CMakeFiles/pro_alg_2_queens.dir/main.cpp.obj	2847e77e5952c876
+405	596	7251319887548590	pro_alg_2_queens.exe	a3877af46ad0e67e
+3	646	7351606356480663	CMakeFiles/pro_alg_2_queens.dir/main.cpp.obj	2847e77e5952c876
+10	959	7351606359583041	CMakeFiles/pro_alg_2_queens.dir/unit_testing.cpp.obj	e795fcf702beb0cf
+959	1219	7351606362152961	pro_alg_2_queens.exe	a3877af46ad0e67e
